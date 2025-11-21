@@ -1,0 +1,14 @@
+<svg width="69.569" height="61.568999999999996" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g data-name="Group 12" id="svg_1" stroke="null" transform="rotate(45 39.2331 16.0135)">
+   <path data-name="Rectangle 6" fill="#ffe036" d="m21.8972,31.59341l28.285,-28.285l28.284,28.285l-28.284,28.284l-28.285,-28.284z" id="svg_2" stroke="null"/>
+   <path data-name="Rectangle 7" fill="rgba(255,223,41,0.44)" d="m13.8972,31.59341l28.284,-28.285l28.286,28.285l-28.286,28.284l-28.284,-28.284z" id="svg_3" stroke="null"/>
+   <text fill="#24200a" font-size="24" font-family="LithosPro-Regular, Lithos Pro" y="39.30841" x="41.8972" id="svg_4" stroke="null">
+    <tspan x="0" y="0" id="svg_5" stroke="null">C</tspan>
+   </text>
+  </g>
+  <text fill="#000000" stroke-width="0" x="27.94205" y="39.79595" id="svg_6" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" stroke="#000" transform="matrix(0.589752 0 0 0.478443 5.95069 20.2311)">H20</text>
+ </g>
+
+</svg>
